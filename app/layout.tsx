@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NazaraJs",
+  title: "NazaraJS-template-1",
   description: "NazaraJS is the only 100% customizable with full access ecommerce solution available to developers",
 };
 
