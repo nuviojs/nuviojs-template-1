@@ -18,7 +18,7 @@ export default function Home() {
     <div className="container  px-2 py-3">
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
       <Head>
-        <title>Shop-up</title>
+        <title>Shop-Up</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
