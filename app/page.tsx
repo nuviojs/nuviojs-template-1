@@ -12,7 +12,7 @@ export default function Home() {
     { id: 1, name: 'T-Shirt', price: 19.99, image: '/t-shirt.jpg' },
     { id: 2, name: 'Jeans', price: 49.99, image: '/jeans.jpg' },
     { id: 3, name: 'Sneakers', price: 79.99, image: '/sneakers.jpg' },
-    { id: 4, name: 'Bags', price: 79.99, image: '/sneakers.jpg' },
+
   ];
 
   return (
