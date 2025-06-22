@@ -12,13 +12,14 @@ export default function Home() {
     { id: 1, name: 'T-Shirt', price: 19.99, image: '/t-shirt.jpg' },
     { id: 2, name: 'Trending Jeans', price: 49.99, image: '/jeans.jpg' },
     { id: 3, name: 'Sneakers', price: 79.99, image: '/sneakers.jpg' },
+
   ];
 
   return (
     <div className="container  px-2 py-3">
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
       <Head>
-        <title>Shop-Up</title>
+        <title>Shop-UP</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
