@@ -11,6 +11,8 @@ export default function Home() {
   const products = [
     { id: 1, name: 'T-Shirt', price: 19.99, image: '/t-shirt.jpg' },
     { id: 2, name: 'Jeans', price: 49.99, image: '/jeans.jpg' },
+        { id: 2, name: 'Jeans', price: 49.99, image: '/jeans.jpg' },
+
     
   ];
 
