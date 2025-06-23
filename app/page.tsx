@@ -12,6 +12,7 @@ export default function Home() {
     { id: 1, name: 'T-Shirt', price: 19.99, image: '/t-shirt.jpg' },
     { id: 2, name: 'Jeans', price: 49.99, image: '/jeans.jpg' },
     { id: 3, name: 'Sneakers', price: 79.99, image: '/sneakers.jpg' },
+    { id: 3, name: 'Sneakers', price: 79.99, image: '/sneakers.jpg' },
 
   ];
 
@@ -30,6 +31,7 @@ export default function Home() {
 
       <main className="py-8 flex-1 w-full max-w-6xl">
         <h2 className="text-2xl font-semibold text-center mb-6">Featured Products</h2>
+        <Card>Testing main branch</Card>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {products.map((product) => (
             <Card key={product.id} className="overflow-hidden">
