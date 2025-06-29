@@ -24,7 +24,6 @@ export default function Home() {
 
 
   return (
-
     
     <main className="min-h-screen">
       <TopNavbar />
@@ -49,31 +48,6 @@ export default function Home() {
                   className="object-cover w-140 h-200"
                   priority
                   quality={100}
-
-    <div className="container  px-2 py-3">
-    <div className="min-h-screen flex flex-col items-center justify-center p-4">
-      <Head>
-        <title>Shop-UP</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <header className="text-center py-8">
-        <h1 className="text-4xl font-bold">Welcome to Our Shop-up Store</h1>
-        <p className="text-lg text-gray-600">Discover the latest fashion trends!</p>
-      </header>
-
-      <main className="py-8 flex-1 w-full max-w-6xl">
-        <h2 className="text-2xl font-semibold text-center mb-6">Featured Products</h2>
-        <Card>Testing main branch</Card>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {products.map((product) => (
-            <Card key={product.id} className="overflow-hidden">
-              <CardHeader className="p-0">
-                <img
-                  src={product.image}
-                  alt={product.name}
-                  className="w-full h-64 object-cover"
-
                 />
              
             </motion.div>
