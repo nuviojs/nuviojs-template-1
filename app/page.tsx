@@ -11,12 +11,8 @@ import MainNavbar from '@/components/MainNavbar';
 const heroImages = ['/h1.webp', '/t-shirt.webp', '/h3.jpg'];
 
 export default function Home() {
-<<<<<<< HEAD
-  const products = [
-    { id: 1, name: 'T-Shirt', price: 19.99, image: '/t-shirt.jpg' },
-    { id: 2, name: 'Jeans', price: 49.99, image: '/jeans.jpg' },
-  ]
-=======
+
+
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -25,7 +21,7 @@ export default function Home() {
     }, 5000);
     return () => clearInterval(interval);
   }, []);
->>>>>>> 1b224e8b0e61c097ae0f6adf14154256cae2e559
+
 
   return (
     
