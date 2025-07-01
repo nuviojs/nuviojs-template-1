@@ -26,22 +26,6 @@ Inspired by open platforms like Linux and shadcn/ui, Nazarajs is designed to be 
 - Authentication: NextAuth.js (or Clerk, custom)
 - Backend: Next.js API routes + server actions
 
-## Folder Structure
-
-nazarajs/
-├── apps/
-│ ├── storefront/ → Public storefront (Next.js)
-│ └── admin/ → Admin dashboard (Next.js)
-├── packages/
-│ ├── ui/ → Shared UI components (shadcn/ui)
-│ └── config/ → Shared config, env, utils
-├── prisma/ → Prisma schema and seed files
-├── .env.example → Sample environment config
-
-bash
-Copy
-Edit
-
 ## Getting Started
 
 1. Clone the repository
