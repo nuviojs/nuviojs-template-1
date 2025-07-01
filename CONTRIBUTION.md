@@ -18,12 +18,12 @@ Nazarajs is fully open-source and welcomes contributions from developers, design
 
 ## Local Setup
 
-- Use pnpm for package management
+- Use npm for package management
 - Prisma is used for DB migrations and seeding
 - Tailwind and shadcn/ui are used for styling
 - Linting is configured with eslint and prettier
 
 ## Install dependencies
-pnpm install
+npm install
 ## Run the development server
-pnpm dev
+npm run dev
