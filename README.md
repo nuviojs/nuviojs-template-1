@@ -1,6 +1,6 @@
 # Nazarajs
 
-Nazarajs is a fully open-source, self-hostable, developer-first ecommerce framework built entirely with Next.js and shadcn/ui. It gives you full control over your storefront, admin panel, and backend functionality — all in a single, composable, monorepo structure.
+NazaraJs is the only 100% customizable , scalable and full control ecommerce solution available to developers.It is a fully open-source, self-hostable, developer-first ecommerce framework built entirely with Next.js and shadcn/ui. It gives you full control over your storefront, admin panel, and backend functionality.
 
 Inspired by open platforms like Linux and shadcn/ui, Nazarajs is designed to be elegant, extendable, and truly yours.
 
@@ -19,7 +19,7 @@ Inspired by open platforms like Linux and shadcn/ui, Nazarajs is designed to be 
 
 ## Tech Stack
 
-- Framework: Next.js 14 (App Router)
+- Storefront: Next.js (App Router)
 - Styling: Tailwind CSS + shadcn/ui
 - ORM: Prisma
 - Database: PostgreSQL (default) – easily swappable
@@ -35,15 +35,15 @@ git clone https://github.com/your-org/nazarajs.git
 cd nazarajs
 
 ## Install dependencies
-pnpm install
+npm install
 
 ## Setup environment
 cp .env.example .env
 
 ## Initialize database
-pnpm db:push
-pnpm db:seed
+npm db:push
+npm db:seed
 
 
 ## Run the development server
-pnpm dev
+npm run dev
