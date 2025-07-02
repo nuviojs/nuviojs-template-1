@@ -1,8 +1,8 @@
-# Nazarajs
+# Nuviojs
 
-NazaraJs is the only 100% customizable , scalable and full control ecommerce solution available to developers.It is a fully open-source, self-hostable, developer-first ecommerce framework built entirely with Next.js and shadcn/ui. It gives you full control over your storefront, admin panel, and backend functionality.
+Nuviojs is the only 100% customizable , scalable and full control ecommerce solution available to developers.It is a fully open-source, self-hostable, developer-first ecommerce framework built entirely with Next.js and shadcn/ui. It gives you full control over your storefront, admin panel, and backend functionality.
 
-Inspired by open platforms like Linux and shadcn/ui, Nazarajs is designed to be elegant, extendable, and truly yours.
+Inspired by open platforms like Linux and shadcn/ui, Nuviojs is designed to be elegant, extendable, and truly yours.
 
 ## Features
 
@@ -31,8 +31,8 @@ Inspired by open platforms like Linux and shadcn/ui, Nazarajs is designed to be 
 1. Clone the repository
 
 
-git clone https://github.com/your-org/nazarajs.git
-cd nazarajs
+git clone https://github.com/your-org/nuviojs.git
+cd nuviojs
 
 ## Install dependencies
 npm install

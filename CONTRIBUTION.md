@@ -2,11 +2,11 @@
 📄 CONTRIBUTING.md
 
 ```markdown
-# Contributing to Nazarajs
+# Contributing to Nuviojs
 
-Thank you for your interest in contributing to Nazarajs.
+Thank you for your interest in contributing to Nuviojs.
 
-Nazarajs is fully open-source and welcomes contributions from developers, designers, and ecommerce experts.
+Nuviojs is fully open-source and welcomes contributions from developers, designers, and ecommerce experts.
 
 ## How to Contribute
 

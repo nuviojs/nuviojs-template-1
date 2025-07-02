@@ -4,7 +4,7 @@ export default function MainNavbar() {
   return (
     <nav className="bg-black text-white py-5 flex items-center  px-1 w-full">
       <div className="flex justify-center flex-1 mr-30 space-x-6">
-        <span className="text-xl font-bold">Shop Up</span>
+        <span className="text-xl font-bold">Nuvio Store</span>
         <a href="mailto:orders@zed.com.pk" className="text-sm hover:underline">
           Need help? orders@shopupofficial.com.pk
         </a>

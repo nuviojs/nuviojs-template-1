@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NazaraJS-template-1",
-  description: "NazaraJS is the only 100% customizable with full access ecommerce solution available to developers",
+  title: "NuvioJs-template-1",
+  description: "NuvioJs is the only 100% customizable with full access ecommerce solution available to developers",
 };
 
 export default function RootLayout({
@@ -30,7 +30,7 @@ export default function RootLayout({
         
         {children}
         <footer className="footer">
-        <p>© 2025 shop-up. All rights reserved.</p>
+        <p>© 2025 Nuvio. All rights reserved.</p>
       </footer>
       </body>
     </html>
